@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Taylor</title>
+    <link>https://blog.christaylor.dev/</link>
+    <description>Recent content on Chris Taylor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019 &lt;a href=&#39;https://github.com/cttttt&#39;&gt;Chris Taylor&lt;/a&gt; &amp;middot; &lt;a href=&#39;https://twitter.com/ctttttttttt&#39;&gt;@ctttttttttt&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 06 Nov 2019 02:14:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.christaylor.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oh hai 👋</title>
+      <link>https://blog.christaylor.dev/about/</link>
+      <pubDate>Wed, 06 Nov 2019 02:14:14 +0000</pubDate>
+      
+      <guid>https://blog.christaylor.dev/about/</guid>
+      <description>My name is Chris Taylor.
+Welcome to my diary where I&amp;rsquo;ll try to actually write down some of the stuff I&amp;rsquo;ve learned and continue to learn. I have a pretty poor track record of writing what I learn, and so will have a lot of catching up to do.</description>
+    </item>
+    
+    <item>
+      <title>Oh hai 👋</title>
+      <link>https://blog.christaylor.dev/post/oh-hai/</link>
+      <pubDate>Wed, 06 Nov 2019 02:14:14 +0000</pubDate>
+      
+      <guid>https://blog.christaylor.dev/post/oh-hai/</guid>
+      <description>My name is Chris Taylor.
+Welcome to my diary where I&amp;rsquo;ll try to actually write down some of the stuff I&amp;rsquo;ve learned and continue to learn. I have a pretty poor track record of writing what I learn, and so will have a lot of catching up to do.</description>
+    </item>
+    
+  </channel>
+</rss>
